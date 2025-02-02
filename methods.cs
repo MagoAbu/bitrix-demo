@@ -1,3 +1,4 @@
-public static int Sum(int num1, num2) {
-    return num1 + num2;
+public static int Sum(int firstSum, int secondSum) 
+{
+    return firstSum + secondSum;
 }
